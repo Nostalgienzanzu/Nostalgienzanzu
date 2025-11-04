@@ -5,18 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
+- 🔭 Je travaille sur : 
       Site web d'une entreprise
       Mon projet tutoré
-- 🌱 I’m currently learning
+- 🌱 Je suis entrain d'apprendre : 
       AI course
       Cloud computing
       Dévéloppement mobile
-- 💬 Ask me about
+- 💬 Pose moi des questions sur :
       HTML
       PHP
       BOOSTRAP
-- ⚡ Fun fact:
+- ⚡ Fun fact :
       * Je préfère prendre de chips quand je code
       * Ecouter la musique en plein travail
 --
