@@ -1,6 +1,6 @@
 ## 👋 Hello, c'est Nostalgie Nzanzu
 
-<!--
+!--
 **Nostalgienzanzu/Nostalgienzanzu** is a ✨ _Etudiant en informatique appliquée à la gestion_ ✨ repository because its `README.md`appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
       * Je préfère prendre de chips quand je code
       * Ecouter la musique en plein travail
--->
+--
