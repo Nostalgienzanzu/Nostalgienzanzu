@@ -1,9 +1,9 @@
 ## 👋 Hello, c'est Nostalgie Nzanzu
 
 !--
-**Nostalgienzanzu/Nostalgienzanzu** is a ✨ _Etudiant en informatique appliquée à la gestion_ ✨ repository because its `README.md`appears on your GitHub profile.
+**Nostalgienzanzu/Nostalgienzanzu** est ✨ _Etudiant en informatique appliquée à la gestion_ ✨ .
 
-Here are some ideas to get you started:
+Voilà quelques trucs sur moi :
 
 - 🔭 Je travaille sur : 
       Site web d'une entreprise
